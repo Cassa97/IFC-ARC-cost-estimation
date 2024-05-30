@@ -5,7 +5,7 @@ The research aims to compare the 5D BIM cost estimation method with a newly prop
 
 The FlowChart is:
 
-<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/46a8b43a-132b-4f0d-8e18-900e4ded355d" width="500" >  
+<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/8ef2f2b0-fdba-4ed2-abaf-70721c2903d0" width="500" >  
 
 IFC Model:
 
