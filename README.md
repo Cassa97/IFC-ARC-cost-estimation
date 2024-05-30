@@ -3,6 +3,11 @@ Case study for conference paper CIB 78 &amp; buildingSMART 2024
 
 The research aims to compare the 5D BIM cost estimation method with a newly proposed approach implemented through a code in IfcOpenShell. This innovative method utilizes structured cost items in IFC and establishes the relationship between cost and geometric IFC entities. The results indicate that the new approach is more agile and effective than the traditional 5D BIM method, which relies on cost assignment via attributes. The new method allows for querying cost items based on information contained within geometric entities and verifying the plausibility of the links between these entities and the cost estimates.
 
+The FlowChart is:
+
+<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/154f61cb-84d1-432f-a34e-27866f32e815" width="500" >  
+
+
 ## Advantages and Disadvantages of 5D BIM and Proposed Method
 
 ### 5D BIM Method
