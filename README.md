@@ -5,7 +5,7 @@ The research aims to compare the 5D BIM cost estimation method with a newly prop
 
 The FlowChart is:
 
-<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/154f61cb-84d1-432f-a34e-27866f32e815" width="500" >  
+<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/46a8b43a-132b-4f0d-8e18-900e4ded355d" width="500" >  
 
 
 ## Advantages and Disadvantages of 5D BIM and Proposed Method
