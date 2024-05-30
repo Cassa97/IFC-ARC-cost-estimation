@@ -7,6 +7,11 @@ The FlowChart is:
 
 <img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/46a8b43a-132b-4f0d-8e18-900e4ded355d" width="500" >  
 
+IFC Model:
+
+<img src="https://github.com/Cassa97/IFC-ARC-cost-estimation/assets/115898053/614d2fb1-001f-436f-a6a2-601f16c4e912" width="500" >  
+
+
 
 ## Advantages and Disadvantages of 5D BIM and Proposed Method
 
