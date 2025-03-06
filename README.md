@@ -1,5 +1,9 @@
 # IFC-ARC-cost-estimation
-Case study for conference paper CIB 78 &amp; buildingSMART 2024
+Case study for conference paper CIB W78 &amp; buildingSMART 2024
+
+Conference Publication (CIB W78 2024):
+
+[DOI:](https://itc.scix.net/series/w78_2024)
 
 The research aims to compare the 5D BIM cost estimation method with a newly proposed approach implemented through a code in IfcOpenShell. This innovative method utilizes structured cost items in IFC and establishes the relationship between cost and geometric IFC entities. The results indicate that the new approach is more agile and effective than the traditional 5D BIM method, which relies on cost assignment via attributes. The new method allows for querying cost items based on information contained within geometric entities and verifying the plausibility of the links between these entities and the cost estimates.
 
